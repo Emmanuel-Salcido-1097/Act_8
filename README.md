@@ -1,19 +1,5 @@
 # Act_8
 
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-## Getting Started: FlutLab - Flutter Online IDE
-
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+## Pantalla
+![image](https://github.com/user-attachments/assets/16be9e14-b9d6-40ab-988b-b7bcddf40811)
+![image](https://github.com/user-attachments/assets/46584a10-e8f3-4815-b96a-37185a0acf50)
